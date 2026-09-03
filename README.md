@@ -28,5 +28,5 @@ Máte nápad? Pojďme ho společně zrealizovat!
 
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=honzabehuncik&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=honzabehuncik&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-stats-extended.vercel.app/api?username=honzabehuncik&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=honzabehuncik&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
