@@ -2,9 +2,9 @@
 
 ### [„Dejte vašim vizím digitální domov“ 🚀](https://jan-behuncik.vercel.app/)
 
-Ahoj, jsem **Jan Běhunčík** – student na VUT a vývojář. Zaměřuji se na propojování moderního designu s robustním kódem. Navrhuji a vyvíjím weby s důrazem na rychlost, čistý kód a skvělý uživatelský zážitek, které pomáhají klientům dosahovat reálných výsledků.
+Ahoj, jsem **Jan Běhunčík**. Studuji na VUT a věnuji se informačním technologiím. Navrhuji a vyvíjím weby s důrazem na čistý kód a skvělý uživatelský zážitek, které pomáhají klientům dosahovat reálných výsledků.
 
-*   👨🏻‍🎓 Student na VUT
+*   👨🏻‍🎓 VUT student
 *   👨🏻‍💻 Developer & UX/UI Designer
 *   🎬 Video Editor
 
